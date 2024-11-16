@@ -17,7 +17,7 @@
             {
                 ProductID,
                 Name,
-                Price
+                Price,
             };
         }
     }
